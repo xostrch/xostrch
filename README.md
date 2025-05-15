@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=1000&width=435&lines=hello+from+xostrch's+github+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+###
+
 <h1 align="left">xostrch</h1>
 
 ###
@@ -17,6 +21,7 @@
 <div align="left">
   <a href="https://www.instagram.com/xostrch/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    
   </a>
   <a href="https://www.youtube.com/@xostrch" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
