@@ -1,11 +1,8 @@
 <h1 align="left">xostrch</h1>
 
 ###
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&width=475&lines=hello+from+xostrch's+github+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&width=475&lines=hello+from+xostrch's+github+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+<p align="left">Hi, my name is Adam, and I go by xostrch online.I want to be a frontend developer.  I’m excited about growing my skills every day. Although I’m just starting out, I’m passionate about building clean and modern web interfaces.</p>
 
 ###
 
@@ -20,7 +17,6 @@
 <div align="left">
   <a href="https://www.instagram.com/xostrch/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-    
   </a>
   <a href="https://www.youtube.com/@xostrch" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -29,7 +25,7 @@
 
 ###
 
-<p align="left">Roadmap:</p>
+<p align="left">Learning:</p>
 
 ###
 
