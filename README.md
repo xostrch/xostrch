@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=1000&width=435&lines=hello+from+xostrch's+github+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)</h1>
+<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&width=435&lines=hello+from+xostrch's+github+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
 
 ###
 
