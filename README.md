@@ -48,6 +48,6 @@
 </div>
 
 ###
-
-https://streak-stats.demolab.com?user=xostrch&theme=default&hide_border=true
 ###
+
+<img src="https://streak-stats.demolab.com?user=xostrch&theme=default&hide_border=true" alt="xostrch's GitHub Stats" />
