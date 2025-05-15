@@ -1,9 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=1000&width=435&lines=hello+from+xostrch's+github+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
-###
-
 <h1 align="left">xostrch</h1>
 
+###
+<h1 align="left"[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=1000&width=435&lines=hello+from+xostrch's+github+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)</h1>
 ###
 
 <p align="left">Hi, my name is Adam, and I go by xostrch online.I want to be a frontend developer.  I’m excited about growing my skills every day. Although I’m just starting out, I’m passionate about building clean and modern web interfaces.</p>
