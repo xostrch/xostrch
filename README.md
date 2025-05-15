@@ -1,7 +1,7 @@
 <h1 align="left">xostrch</h1>
 
 ###
-
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&width=475&lines=hello+from+xostrch's+github" alt="Typing SVG" /></a>
 
 ###
