@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&width=475&lines=hello+from+xostrch's+github" alt="Typing SVG" /></a>
 
 ###
-
 <p align="left">Hi, my name is Adam, and I go by xostrch online.I want to be a frontend developer.  I’m excited about growing my skills every day. Although I’m just starting out, I’m passionate about building clean and modern web interfaces.</p>
 
 ###
