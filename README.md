@@ -48,3 +48,6 @@
 </div>
 
 ###
+
+https://streak-stats.demolab.com?user=xostrch&theme=default&hide_border=true
+###
