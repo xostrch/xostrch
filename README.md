@@ -1,1 +1,1 @@
-Currently learning: <img src="https://skillicons.dev/icons?i=js,html,css" height="20" align="center" />
+Currently learning: <img src="https://skillicons.dev/icons?i=js" height="20" align="center" />
